@@ -13,7 +13,7 @@ name                     : &name "Amirabbas Asgari"
 description              : &description "Electronic engineer student"
 url                      : https://amirabbasasgari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mostafasalarikhaniki/mostafasalarikhaniki.github.io"
+repository               : "amirabbasasgari/amirabbasasgary.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mostafa Salari Khaniki"
+  name             : "Amirabbas Asgari"
   avatar           : "profile.png"
   bio              : "Bachelor of Computer Science at Mazandaran University"
-  location         : "Tehran, Iran"
+  location         : "babolsar, Iran"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "mslri79kh@gmail.com"
+  email            : "amirbabbasasgary9731@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "m-salari"
+  github           : "MrJp3x"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "mostafa-salari-khaniki"
+  linkedin         : "amir-abbas-asgari"
   orcid            : 
   pinterest        :
   soundcloud       :
